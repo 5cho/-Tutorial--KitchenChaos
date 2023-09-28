@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90595b33098b5754292298a0b586e29c, type: 3}
+  m_Name: CheeseBurger
+  m_EditorClassIdentifier: 
+  kitchenObjectSOList:
+  - {fileID: 11400000, guid: 3713dd8718471b644a35cf85093aae27, type: 2}
+  - {fileID: 11400000, guid: 240d6811c0d26144dba1162175992cd9, type: 2}
+  - {fileID: 11400000, guid: 9631fb418cfc31b429ff30c15e54218c, type: 2}
+  recipeName: Cheese Burger
